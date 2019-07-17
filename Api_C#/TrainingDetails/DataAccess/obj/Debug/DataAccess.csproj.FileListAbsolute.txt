@@ -1,0 +1,10 @@
+C:\Project_03July19\TrainingDetails\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Project_03July19\TrainingDetails\DataAccess\bin\Debug\DataAccess.dll
+C:\Project_03July19\TrainingDetails\DataAccess\bin\Debug\DataAccess.pdb
+C:\Project_03July19\TrainingDetails\DataAccess\bin\Debug\EntityFramework.dll
+C:\Project_03July19\TrainingDetails\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Project_03July19\TrainingDetails\DataAccess\bin\Debug\EntityFramework.xml
+C:\Project_03July19\TrainingDetails\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Project_03July19\TrainingDetails\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Project_03July19\TrainingDetails\DataAccess\obj\Debug\DataAccess.dll
+C:\Project_03July19\TrainingDetails\DataAccess\obj\Debug\DataAccess.pdb
